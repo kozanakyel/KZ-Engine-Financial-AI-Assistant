@@ -17,9 +17,7 @@ def calculate_dmi_rsi_mfi(data):
     return data
 
 
-data = fetch_data('BTC-USD', '3mo', '1d')
-indicator_data = calculate_dmi_rsi_mfi(data)
-print(indicator_data.DMP_14.iloc[-1])
-
-
-
+if __name__ == '__main__':
+    df = fetch_data('BTC-USD', '3mo', '1d')
+    indicator_data = calculate_dmi_rsi_mfi(df)
+    print(indicator_data.info())
