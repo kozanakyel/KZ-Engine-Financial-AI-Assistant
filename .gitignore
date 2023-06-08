@@ -2,13 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.csv
+# *.csv
 .idea/
 # C extensions
 *.so
-*.json
-*.jsonl
-*.txt
+# *.json
+# *.jsonl
+# *.txt
 
 # Distribution / packaging
 .Python
