@@ -1,0 +1,602 @@
+[
+    {
+        "prompt": "Evaluate the BTCUSDT dataset within Binance on 2022-12-17 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information such as Open, Close, Volume, etc. Based on your analysis, provide a concise buy/sell recommendation within 50 words.",
+        "completion": "Based on the technical indicators and financial information analyzed, it appears that BTCUSDT is currently in a neutral zone with a slightly bearish sentiment. Therefore, the recommendation for this asset would be to hold or wait for a more clear trend to emerge before making any buy or sell decisions."
+    },
+    {
+        "prompt": "Explore the BTCUSDT data in Binance on 2022-12-18 and generate your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Keep your analysis text within 50 words.",
+        "completion": "Based on the technical indicators and financial information, I recommend a hold for BTCUSDT. The RSI, MFI, PDI, and MDI are all in neutral territory, while the ADX indicates a weak trend. The price also did not show significant movement, with a small increase in volume."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT dataset in Binance on 2022-12-19 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the technical indicators, it is recommended to hold off on buying or selling BTCUSDT on 2022-12-19. The RSI and MFI are both below 50, indicating bearish momentum, while the ADX is relatively weak and the PDI and MDI are both below 25, indicating a lack of directional strength. The financial data shows a slight decrease in price from Open to Close, but a relatively high trading volume."
+    },
+    {
+        "prompt": "Explore the BTCUSDT data in Binance on 2022-12-20 and generate your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Keep your analysis text within 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on 2022-12-20, the RSI and MFI values are below the threshold of 50, indicating a potential buying opportunity. Additionally, the ADX value is relatively low, suggesting a weak trend. Therefore, it is recommended to consider buying BTCUSDT."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2022-12-21 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Sell BTCUSDT. Technical indicators suggest bearish momentum in the market. RSI and ADX indicate a weakening trend, while MFI is below 70, indicating selling pressure. PDI and MDI have crossed below each other, indicating a potential trend reversal. Low volume also suggests a lack of buying interest."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2022-12-22 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the BTCUSDT data on 2022-12-22, the RSI and MFI indicators suggest a neutral market sentiment. However, the PDI and MDI indicators show a bearish trend, while the ADX suggests a weak trend. Considering the financial information, it is recommended to sell BTCUSDT."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2022-12-23 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the analysis of BTCUSDT market on Binance on 2022-12-23, the RSI and MFI indicators suggest a neutral sentiment, while the PDI and MDI indicators indicate a bearish trend. Additionally, the ADX indicator suggests a weak trend. Considering these factors, I recommend a sell position on BTCUSDT."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance within Binance on 2022-12-24 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "On 2022-12-24, BTCUSDT opened at 16778.52 and closed at 16836.12 with a high of 16869.99 and a low of 16776.62. The volume of 100,224.29 and a total of 3,076,985 trades were recorded. The RSI and MFI indicators suggest a neutral market sentiment, while the PDI and MDI are slightly bearish. The ADX indicates a weak trend."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset within Binance on 2022-12-25 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information such as Open, Close, Volume, etc. Based on your analysis, provide a concise buy/sell recommendation within 50 words.",
+        "completion": "Based on the BTCUSDT dataset on 2022-12-25, the RSI and MFI indicators suggest a neutral market sentiment. However, the PDI and MDI show a slight bearish trend, while the ADX indicates weak trend strength. Therefore, it is recommended to hold off on buying or selling until there is a clearer market trend."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2022-12-26 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Based on your findings, provide a buy/sell recommendation using a maximum of 50 words.",
+        "completion": "Based on the technical indicators and financial data, BTCUSDT appears to be in a neutral state with a slightly bullish bias. The RSI and MFI are both hovering around the midpoint, indicating a balance between buying and selling pressure. PDI and MDI are also evenly matched, while ADX suggests a weak trend. Therefore, a cautious buy recommendation is suggested, with a tight stop loss in place."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT dataset in Binance on 2022-12-27 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the given data, BTCUSDT has a neutral RSI and MFI, while PDI and MDI are slightly bearish. ADX is low, indicating a weak trend. Open and Close prices are not significantly different. Considering the mixed indicators and lack of clear trend, it is recommended to hold on to BTCUSDT for now."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2022-12-28 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT is in a bearish trend with RSI and MFI below 50 and PDI below MDI. The ADX indicates a weak trend. Therefore, a sell recommendation is suggested. The Open was 16706.06, Close was 16547.31, and Volume was 193,037.57."
+    },
+    {
+        "prompt": "Assess the BTCUSDT data in Binance on 2022-12-29 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Sell BTCUSDT. The RSI and MFI indicators are below 50, indicating a bearish trend. Additionally, the PDI is lower than the MDI, and ADX is below 25, suggesting a weak trend. The high volume and Open/Close prices are not enough to outweigh the bearish indicators."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT dataset in Binance on 2022-12-30 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the technical indicators, including RSI, MFI, PDI, MDI, and ADX, and financial data, I recommend a hold position for BTCUSDT on 2022-12-30. The market seems to be in a neutral state with no clear direction, and the indicators do not provide a strong signal for either buying or selling."
+    },
+    {
+        "prompt": "Explore the BTCUSDT data in Binance on 2022-12-31 and generate your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Keep your analysis text within 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on 2022-12-31, with an RSI of 43.5, MFI of 46.7, PDI of 16.9, MDI of 27.6, and ADX of 12.3, I recommend a hold position. The overall market sentiment is neutral, and there are no clear indications of a bullish or bearish trend."
+    },
+    {
+        "prompt": "Conduct a comprehensive analysis of BTCUSDT within Binance on 2023-01-01, analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation within a concise analysis of 50 words.",
+        "completion": "Based on the analysis of BTCUSDT on 2023-01-01, the RSI and MFI indicators suggest a neutral trend, while the PDI and MDI indicate a bearish trend. The ADX value suggests a weak trend. The financial data shows a slight increase in Open and Close prices and a moderate trading volume. Given the mixed signals, it is advisable to hold on to the investment for now."
+    },
+    {
+        "prompt": "Examine the BTCUSDT performance in Binance on 2023-01-02 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis text of 50 words.",
+        "completion": "Based on the financial data and indicators, BTCUSDT in Binance on 2023-01-02 had a relatively stable performance with a slight increase in price. The RSI is below the overbought zone at 46.97, while the MFI is in the neutral zone at 53.23, indicating a lack of significant buying or selling pressure. The PDI and MDI are both below 30, suggesting a lack of strong trend direction. The ADX is at 13.22, indicating a weak trend. Overall, a hold position is recommended for investors until a clearer trend develops."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-01-03 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT appears to be in a neutral position with RSI, MFI, PDI, and MDI showing no clear trend. However, ADX suggests a bearish trend may be starting. Considering the financial information, the low volume and lack of significant price movement suggest a hold recommendation for now."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2023-01-04 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT shows a neutral stance with RSI and MFI hovering around the 50 level. However, the PDI and MDI are indicating a slight bullish momentum. ADX remains low indicating a range-bound market. With no clear trend, it's recommended to hold BTCUSDT for now and wait for a clearer market direction."
+    },
+    {
+        "prompt": "Perform a comprehensive analysis of BTCUSDT within Binance on 2023-01-05 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators and financial data, BTCUSDT seems to be in a neutral zone. The RSI and MFI are slightly above 50, indicating a balanced market sentiment. The ADX is below 25, indicating a weak trend. Therefore, it is recommended to hold the position and wait for a stronger trend to develop before making any buy/sell decisions."
+    },
+    {
+        "prompt": "Explore the BTCUSDT data in Binance on 2023-01-06 and generate your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Keep your analysis text within 50 words.",
+        "completion": "Based on the BTCUSDT data on 2023-01-06, I would recommend a HOLD position as the RSI and MFI are in neutral territory and indicate no clear buy/sell signal. However, the PDI and MDI are showing slightly bullish signals. The ADX is also indicating a weak trend. Overall, the financial information does not provide a clear indication, so it's best to hold and wait for more conclusive signals."
+    },
+    {
+        "prompt": "Review the BTCUSDT market trends in Binance on 2023-01-07 and offer your buy/sell recommendation using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, and Volume, I recommend a buy for BTCUSDT on Binance on 2023-01-07. The market trend is bullish, with the RSI at a healthy level of 54.276 and the MFI at 54.080, indicating buying pressure. The PDI is higher than the MDI, indicating a positive trend, and the ADX is at a moderate level of 11.045, supporting the bullish trend."
+    },
+    {
+        "prompt": "Perform a comprehensive analysis of BTCUSDT within Binance on 2023-01-08 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the analysis of BTCUSDT on 2023-01-08 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc., it is recommended to buy. The RSI and MFI indicators suggest bullish momentum, while PDI and MDI suggest a possible trend reversal. The ADX is indicating a weak trend. The financial data also supports a potential price increase."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-01-09 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the indicators and financial information, the BTCUSDT dataset suggests a buy recommendation. The RSI and MFI indicators show bullish momentum, while the PDI and MDI indicators indicate a positive trend. Additionally, the ADX indicates a strengthening trend, and the high volume supports the buy recommendation."
+    },
+    {
+        "prompt": "Examine the BTCUSDT performance in Binance on 2023-01-10 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis text of 50 words.",
+        "completion": "Based on the RSI and MFI indicators, BTCUSDT is currently in overbought territory, while PDI and MDI show a bullish trend. The ADX suggests a weak trend. The high volume and strong close price indicate positive investor sentiment. Overall, we recommend a hold position for now, and monitor the trend for possible profit taking."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance in Binance on 2023-01-11 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the BTCUSDT data on 2023-01-11, the asset has a strong bullish trend, with RSI at 73.85, MFI at 79.99, PDI at 36.22, MDI at 13.19, ADX at 16.27, and a high trading volume of 262221.61. It is recommended to buy BTCUSDT."
+    },
+    {
+        "prompt": "Assess the BTCUSDT data in Binance on 2023-01-12 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the high RSI and MFI values, and the positive trend indicated by PDI and ADX, I recommend buying BTCUSDT. The opening and closing prices also suggest an upward trend, with high trading volume."
+    },
+    {
+        "prompt": "Conduct a comprehensive analysis of BTCUSDT within Binance on 2023-01-13, analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation within a concise analysis of 50 words.",
+        "completion": "Based on the data from January 13th, 2023, BTCUSDT had a strong upward trend, with a high of $20,000 and closing at $19,930.01. The RSI indicator of 87.04 indicates that the asset is overbought, and the MFI indicator of 94.61 suggests strong buying pressure. PDI of 52.76 suggests bullish trend and MDI of 8.12 indicates low selling pressure. ADX of 23.61 indicates a strong uptrend. Overall, the data suggests a bullish market. Buy BTCUSDT."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT trends in Binance on 2023-01-14 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the RSI and MFI indicators, BTCUSDT was overbought on 2023-01-14. However, the PDI, MDI, and ADX showed strong positive trend momentum. Considering the overall bullish trend, I would recommend holding or buying BTCUSDT."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2023-01-15 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the analysis of BTCUSDT market on 2023-01-15, I recommend buying. RSI and MFI indicators suggest an overbought market, while PDI and ADX indicators suggest a strong uptrend. Open and close prices are relatively stable, and high volume indicates strong investor interest."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-01-16 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, and Volume, it is recommended to sell BTCUSDT on 2023-01-16 in the Binance market. The market appears to be overbought and there is a strong bearish trend indicated by the MDI."
+    },
+    {
+        "prompt": "Conduct a comprehensive analysis of BTCUSDT within Binance on 2023-01-17, analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation within a concise analysis of 50 words.",
+        "completion": "Based on the analysis of BTCUSDT on 2023-01-17, the RSI and MFI indicators suggest a highly overbought market, while PDI and ADX indicate a strong uptrend. However, the MDI suggests a weak bearish trend. Therefore, it is recommended to sell BTCUSDT at this point."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance within Binance on 2023-01-18 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "On 2023-01-18, BTCUSDT opened at 21132.29 and closed at 20677.47 with a high of 21650.0 and a low of 20407.15. The RSI and MFI indicators suggest overbought conditions, while the PDI is significantly higher than the MDI indicating bullish trend. The ADX suggests a strong trend. The high volume of 350916.01949 indicates a highly volatile day."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-01-19 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on 2023-01-19, the market trend showed a strong bullish sentiment with RSI at 80.42 and MFI at 89.92. PDI was higher than MDI at 41.38 and 8.67 respectively, indicating a positive trend. ADX at 42.15 also suggested a strong uptrend. With the market indicators showing positive momentum, a buy recommendation is suggested."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset within Binance on 2023-01-20 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information such as Open, Close, Volume, etc. Based on your analysis, provide a concise buy/sell recommendation within 50 words.",
+        "completion": "Based on the data for BTCUSDT on 2023-01-20, the RSI is indicating an overbought market condition, while the MFI suggests strong buying pressure. The PDI is higher than the MDI, indicating bullish momentum, and the ADX indicates a strong uptrend. Therefore, I recommend a buy for BTCUSDT."
+    },
+    {
+        "prompt": "Explore the BTCUSDT data in Binance on 2023-01-21 and generate your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Keep your analysis text within 50 words.",
+        "completion": "Based on the high RSI and MFI values, as well as the strong ADX indicator, I would recommend selling BTCUSDT on 2023-01-21. Despite the high trading volume, the PDI and MDI values do not indicate a clear trend."
+    },
+    {
+        "prompt": "Perform a comprehensive analysis of BTCUSDT within Binance on 2023-01-22 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators and financial data, BTCUSDT shows a strong uptrend with an RSI of 84.99, MFI of 84.85, PDI of 46.89, MDI of 7.11, and ADX of 48.81. Additionally, the high volume and opening/closing prices suggest a bullish trend. Therefore, a buy recommendation is suggested."
+    },
+    {
+        "prompt": "Evaluate the performance of BTCUSDT in Binance on 2023-01-23 by analyzing RSI, MFI, PDI, MDI, and ADX indicators, along with financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the financial data and technical indicators, BTCUSDT had a strong bullish trend on 2023-01-23. The RSI and MFI were both above 80, indicating overbought conditions. The PDI was significantly higher than the MDI, suggesting a strong uptrend. Additionally, the ADX was above 50, confirming the bullish trend. Therefore, it is recommended to buy BTCUSDT."
+    },
+    {
+        "prompt": "Explore the BTCUSDT data in Binance on 2023-01-24 and generate your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Keep your analysis text within 50 words.",
+        "completion": "Sell BTCUSDT. The RSI and MFI indicators are both in overbought territory, suggesting that the asset is likely to experience a price correction. Additionally, the ADX suggests a strong trend, but the PDI and MDI indicators show a weak buying trend. The high volume and a close price below the open price further support the sell recommendation."
+    },
+    {
+        "prompt": "Assess the BTCUSDT data in Binance on 2023-01-25 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Sell BTCUSDT. RSI and MFI are overbought, suggesting a potential market correction. PDI is high, but MDI is low, indicating a possible trend reversal. ADX is strong, but volume is relatively low. Open and close prices are within range."
+    },
+    {
+        "prompt": "Conduct an analysis of BTCUSDT on 2023-01-26 within Binance, taking into account RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide a buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the RSI and MFI indicators, BTCUSDT appears overbought and potentially overvalued. The ADX shows a strong trend, and PDI suggests bullish sentiment, while MDI indicates a weaker bearish sentiment. Given the mixed data, we recommend holding or selling BTCUSDT."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance in Binance on 2023-01-27 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the technical analysis, BTCUSDT on Binance shows an overbought RSI and MFI above 50, indicating a potential price correction. However, the ADX shows strong bullish momentum. We recommend selling or holding positions with caution."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-01-28 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the BTCUSDT dataset on 2023-01-28, the RSI of 80.61 suggests that the asset is overbought, while the MFI of 58.46 indicates a bullish sentiment. The ADX of 56.77 suggests a strong uptrend, while the PDI and MDI values indicate a bullish momentum. Considering the financial information, the asset's open and close prices are relatively stable, and the trading volume is high. Overall, it is recommended to hold the asset."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-01-29 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the indicators, BTCUSDT is currently overbought with a high RSI and MFI, indicating a potential sell-off. Additionally, the PDI is significantly higher than MDI, suggesting a bullish trend, and the ADX is strong. However, considering the high volume and bullish trend, it may be wise to hold onto the investment. Therefore, I recommend holding onto BTCUSDT for now."
+    },
+    {
+        "prompt": "Conduct a comprehensive analysis of BTCUSDT within Binance on 2023-01-30, analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation within a concise analysis of 50 words.",
+        "completion": "Based on the analysis of BTCUSDT on 2023-01-30, we recommend a buy. The RSI and ADX indicators suggest a strong bullish trend, while the MFI and Volume indicate increasing buying pressure. The Open and Close prices are relatively stable, and PDI is higher than MDI, indicating a possible uptrend."
+    },
+    {
+        "prompt": "Conduct a comprehensive analysis of BTCUSDT within Binance on 2023-01-31, analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the technical indicators and financial data analysis, BTCUSDT on Binance is overbought with RSI at 70.52 and ADX at 57.25, indicating a strong uptrend. MFI and PDI are moderately high, while MDI is low. The recommendation is to sell BTCUSDT."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-02-01 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the analysis of the BTCUSDT dataset on 2023-02-01, the RSI is showing an overbought market, while the MFI indicates strong buying pressure. The PDI is higher than the MDI, indicating a bullish trend. The ADX also indicates a strong uptrend. Considering these indicators along with the financial information, it is recommended to BUY BTCUSDT."
+    },
+    {
+        "prompt": "Assess the BTCUSDT data in Binance on 2023-02-02 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Sell BTCUSDT. The RSI value of 70.4 indicates overbought market conditions, while the MFI value of 62.2 suggests a potential price reversal. Additionally, the ADX value of 57.7 indicates a strong uptrend, which may lead to a correction."
+    },
+    {
+        "prompt": "Conduct an analysis of BTCUSDT on 2023-02-03 within Binance, taking into account RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide a buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as Open, Close, and Volume data, BTCUSDT is showing signs of being overbought. Therefore, it is recommended to sell BTCUSDT at the current price."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT trends in Binance on 2023-02-04 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as the financial data of BTCUSDT on 2023-02-04, the market seems to be in a bullish trend. The RSI suggests the asset is overbought while the MFI indicates a neutral stance. Overall, it is recommended to hold the asset for now."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2023-02-05 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT shows a strong uptrend with RSI at 62.25 and ADX at 56.36. PDI at 30.46 indicates bullish momentum, and MFI at 48.33 shows moderate buying pressure. The financial data shows a slight decrease from open to close, but volume is high at 209,251.34. Therefore, it is recommended to BUY BTCUSDT."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-02-06 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the dataset, the RSI and ADX indicators show a bullish trend, while the MFI and PDI indicators are neutral. With a relatively high volume and a slightly lower close price than the open, it is recommended to buy BTCUSDT in Binance."
+    },
+    {
+        "prompt": "Perform an in-depth analysis of BTCUSDT on 2023-02-07 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation within a text limited to 50 words.",
+        "completion": "Based on the indicators and financial data, I recommend buying BTCUSDT on Binance. The RSI is in the bullish zone, MFI is neutral, PDI is higher than MDI, and ADX is indicating strong trend. The price opened low and closed high with substantial trading volume."
+    },
+    {
+        "prompt": "Review the BTCUSDT market trends in Binance on 2023-02-08 and offer your buy/sell recommendation using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators along with financial data, the BTCUSDT market trend on 2023-02-08 suggests a strong uptrend. Therefore, a buy recommendation is suggested."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2023-02-09 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, and Volume, it is recommended to sell BTCUSDT on 2023-02-09 due to the low RSI and MFI values and the decreasing trend in ADX."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset within Binance on 2023-02-10 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information such as Open, Close, Volume, etc. Based on your analysis, provide a concise buy/sell recommendation within 50 words.",
+        "completion": "Based on the analysis of BTCUSDT dataset on Binance on February 10th, 2023, the RSI and MFI indicators suggest a bearish trend, while the PDI and MDI are relatively neutral. The ADX indicator indicates a strong trend. Considering the financial data, the closing price was lower than the opening price and the trading volume was moderate. Therefore, it is recommended to sell BTCUSDT."
+    },
+    {
+        "prompt": "Examine the BTCUSDT market in Binance on 2023-02-11 and give your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, within 50 words.",
+        "completion": "Based on the indicators, including RSI, MFI, PDI, MDI, and ADX, and the financial data, I would recommend a buy on BTCUSDT on 2023-02-11. The RSI indicates a neutral market, while MFI is also neutral, and the PDI and MDI are both positive. The ADX shows a strong trend. The open and close prices are both relatively high, with high volume."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-02-12 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on 2023-02-12, the RSI is below 50, indicating a bearish market trend. The MFI is also below 50, suggesting a lack of buying pressure. The ADX is above 40, indicating a strong bearish trend. Therefore, it is recommended to sell BTCUSDT on Binance."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2023-02-13 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT shows a neutral to slightly bearish sentiment. RSI and MFI are below 50, indicating bearish momentum. PDI and MDI are balanced, and ADX suggests a strong trend. The financial data shows a slightly negative trend with a small decrease in volume. Our recommendation is to hold or sell with caution."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT market in Binance on 2023-02-14 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Present your analysis in a concise manner, limited to 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, and Volume, the BTCUSDT market in Binance on February 14, 2023, appears to be bullish. Therefore, we recommend a buy for potential gains."
+    },
+    {
+        "prompt": "Assess the BTCUSDT data in Binance on 2023-02-15 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the high RSI and ADX, I recommend holding or buying BTCUSDT. The MFI is neutral, but the PDI is higher than the MDI, indicating a bullish trend. Open price was $22,199.84, close price was $24,324.05, and volume was 375,669.16111."
+    },
+    {
+        "prompt": "Examine the BTCUSDT performance in Binance on 2023-02-16 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis text of 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, BTCUSDT on 2023-02-16 in Binance showed a bullish trend with a high trading volume of 450080.68366. However, the closing price of 23517.72 was significantly lower than the opening price of 24322.87. Therefore, it is recommended to sell BTCUSDT in the short term."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2023-02-17 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the data from BTCUSDT market on Binance on February 17th, 2023, the RSI, MFI, and ADX indicators suggest a bullish trend, while PDI and MDI indicate a mild uptrend. The high trading volume and positive price movement from open to close further support a buy recommendation for BTCUSDT."
+    },
+    {
+        "prompt": "Evaluate the performance of BTCUSDT in Binance on 2023-02-18 by analyzing RSI, MFI, PDI, MDI, and ADX indicators, along with financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators such as RSI and ADX, BTCUSDT seems to be in a strong uptrend with good momentum. Additionally, the high volume and positive PDI suggest further bullish movement. Therefore, I recommend buying BTCUSDT on Binance."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT trends in Binance on 2023-02-19 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the technical indicators, BTCUSDT had a strong uptrend on 2023-02-19, with RSI and MFI above 50, PDI higher than MDI, and ADX indicating a strong trend. The volume was also high. Therefore, we recommend a buy position for BTCUSDT on Binance."
+    },
+    {
+        "prompt": "Examine the BTCUSDT market in Binance on 2023-02-20 and give your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, within 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data, I recommend buying BTCUSDT on Binance on 2023-02-20. The RSI and MFI indicate bullish momentum, while the PDI and ADX suggest a strong uptrend. Additionally, the high trading volume and a positive Open-Close gap further support buying."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT in Binance on 2023-02-21 by considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Give your buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on technical indicators and financial data, BTCUSDT is showing strong bullish momentum with RSI, MFI, and ADX indicating positive trend. PDI is higher than MDI which further confirms bullish sentiment. Therefore, I recommend buying BTCUSDT on 2023-02-21 in Binance."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2023-02-22 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the RSI and MFI indicators, BTCUSDT appears to be slightly overbought, but the ADX indicates strong bullish momentum. Therefore, a hold recommendation is advised given the overall positive trend, with a close eye on potential profit-taking by investors."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-02-23 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis within 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT on 2023-02-23 shows a strong uptrend with a high ADX value of 38.04, indicating a strong trend. The RSI of 56.99 and MFI of 64.12 suggest bullish momentum, while PDI of 25.31 and MDI of 14.23 indicate the dominance of bulls. With a closing price of 23940.2 and high volume of 398400.45, a buy recommendation is advised."
+    },
+    {
+        "prompt": "Examine the BTCUSDT market in Binance on 2023-02-24 and give your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, within 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc., the BTCUSDT market seems to be in a neutral state. Therefore, I recommend a hold position until there is a clearer trend in the market."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance in Binance on 2023-02-25 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the technical indicators and financial data, it is recommended to hold BTCUSDT as there is no clear indication of a strong buy or sell opportunity on 2023-02-25. The RSI, MFI, PDI, MDI, and ADX are all within neutral levels, while the Open, Close, and Volume also show no significant changes."
+    },
+    {
+        "prompt": "Review the BTCUSDT market trends in Binance on 2023-02-26 and offer your buy/sell recommendation using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as the financial data including Open, Close, and Volume, it is recommended to hold BTCUSDT as the market appears to be showing a stable trend with moderate buying pressure and a strong trend strength indicated by the ADX."
+    },
+    {
+        "prompt": "Assess the BTCUSDT data in Binance on 2023-02-27 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, and financial information including Open, Close, and Volume, it is recommended to hold BTCUSDT on 2023-02-27. The ADX indicates a strong trend, while the RSI and MFI are neutral, and PDI and MDI are relatively weak."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2023-02-28 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Sell BTCUSDT. RSI and MFI are below 50, indicating a bearish trend. PDI is lower than MDI, suggesting a bearish bias, while ADX at 30 implies a strong trend. The low volume reflects a lack of buying interest. The close price is lower than the open price on this day."
+    },
+    {
+        "prompt": "Conduct an analysis of BTCUSDT on 2023-03-01 within Binance, taking into account RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide a buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on Binance, the RSI, MFI, PDI, and MDI indicators suggest that the cryptocurrency is in a bullish trend. Additionally, the ADX indicates strong buying momentum. Therefore, a buy recommendation is suggested."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT market in Binance on 2023-03-02 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Present your analysis in a concise manner, limited to 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, and MDI indicators, as well as financial information including Open, Close, and Volume, the BTCUSDT market in Binance on 2023-03-02 appears to be in a neutral state. However, the ADX indicator suggests that the market is trending upwards. Therefore, a buy recommendation is suggested with caution."
+    },
+    {
+        "prompt": "Examine the BTCUSDT performance in Binance on 2023-03-03 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis text of 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on 2023-03-03, the RSI value of 42.94 indicates a slightly bearish sentiment, while the MFI value of 42.18 implies a neutral stance. The PDI and MDI values of 20.91 and 22.40, respectively, suggest a balanced trading activity. The ADX value of 27.97 highlights a strong trend, indicating a potential for a bullish momentum. Considering the financial data, the lower Open and Close prices of 23465.32 and 22354.34, respectively, with a significant Volume of 319,954.20, indicate a possible correction. Hence, it is advisable to hold off buying BTC"
+    },
+    {
+        "prompt": "Conduct an analysis of BTCUSDT on 2023-03-04 within Binance, taking into account RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide a buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on 2023-03-04, the RSI and MFI indicators suggest a bearish trend, while PDI and MDI show a balanced market. The ADX indicates a strong trend. With low trading volume, it is advisable to hold off any investment decisions until there is more clarity in the market. Hold."
+    },
+    {
+        "prompt": "Perform a comprehensive analysis of BTCUSDT within Binance on 2023-03-05 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators and financial data, BTCUSDT on 2023-03-05 showed a bearish sentiment with RSI and MFI below 50, indicating a potential downtrend. PDI and MDI were both close indicating no clear trend. ADX was above 20, suggesting a trend might develop. The Open and Close were not significantly different and the volume was moderate. Therefore, it is recommended to sell BTCUSDT."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT dataset in Binance on 2023-03-06 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the indicators and financial data, I recommend a hold position for BTCUSDT. While the RSI and ADX suggest a bearish trend, the MFI and PDI/MDI show a neutral market. The Open and Close prices are similar and the volume is moderate, indicating a stable market."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT in Binance on 2023-03-07 by considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Give your buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the technical indicators and financial data, I recommend a hold position for BTCUSDT on Binance on 2023-03-07. RSI below 50 and MFI below 30 indicate a bearish trend, while PDI and MDI are close to each other. ADX suggests a strong trend but not necessarily a bullish one."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-03-08 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the analysis of RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, and Volume, I recommend a sell action for BTCUSDT on 2023-03-08 in Binance. The low RSI and MFI, along with the negative PDI-MDI crossover, indicate bearish momentum, while the ADX suggests a weak trend."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2023-03-09 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on March 9, 2023, the RSI and MFI indicate oversold conditions, while PDI is weak and MDI is strong, suggesting a bearish trend. ADX indicates a strong downtrend. With the market currently bearish and volume decreasing, we recommend selling BTCUSDT."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-03-10 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the technical indicators, the BTCUSDT market on Binance appears to be bearish with RSI at 28.24, MFI at 25.45, and ADX at 23.31. Additionally, the MDI is stronger than the PDI. Therefore, it is recommended to sell BTCUSDT on Binance on 2023-03-10."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT market in Binance on 2023-03-11 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Present your analysis in a concise manner, limited to 50 words.",
+        "completion": "Sell BTCUSDT on Binance based on the RSI and MFI indicators, which suggest that the market is oversold and bears are in control. Additionally, the ADX indicates a strong trend, and the PDI and MDI suggest further downside potential. The low volume and narrow range do not provide a strong signal."
+    },
+    {
+        "prompt": "Examine the BTCUSDT performance in Binance on 2023-03-12 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis text of 50 words.",
+        "completion": "Based on the indicators and financial data, BTCUSDT in Binance on 2023-03-12 has a neutral to slightly bearish outlook. RSI and MFI are below 50, indicating a lack of buying momentum. PDI and MDI are also below 30, suggesting a weak trend. ADX is above 20, implying a developing trend. With the closing price at 21997.11 and high volume, we recommend holding or selling BTCUSDT."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-03-13 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the BTCUSDT dataset on 2023-03-13, the RSI indicator is showing a bullish momentum with a value of 60.48, while the MFI indicates a neutral sentiment with a value of 42.47. The PDI and MDI indicators suggest a positive trend with values of 36.47 and 22.67, respectively. The ADX of 22.68 indicates a moderately strong trend. Considering the financial information such as Open, Close, and Volume, it is recommended to buy BTCUSDT."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-03-14 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the technical indicators and financial data analysis, BTCUSDT appears to be in a bullish trend. The RSI and MFI indicate buying pressure, while the PDI and ADX suggest a strong uptrend. Therefore, it is recommended to buy BTCUSDT on Binance."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT market in Binance on 2023-03-15 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Present your analysis in a concise manner, limited to 50 words.",
+        "completion": "Based on the RSI and MFI indicators, the BTCUSDT market appears to be in a slightly overbought state with a neutral PDI and MDI. The ADX suggests a moderate trend. Given the market conditions, we recommend holding onto existing positions for now."
+    },
+    {
+        "prompt": "Evaluate the performance of BTCUSDT in Binance on 2023-03-16 by analyzing RSI, MFI, PDI, MDI, and ADX indicators, along with financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT on Binance performed well on March 16, 2023 with an RSI of 63.55, MFI of 50.98, PDI of 36.76, MDI of 17.06, and ADX of 25.53. The price opened at 24285.66, reached a high of 25167.4, and closed at 24998.78 with a volume of 439,421.33. Overall, it seems like a good time to buy BTCUSDT on Binance."
+    },
+    {
+        "prompt": "Conduct an analysis of BTCUSDT on 2023-03-17 within Binance, taking into account RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide a buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the RSI value of 72.16, the BTCUSDT pair is overbought. However, the MFI value of 59.52 indicates a positive buying sentiment. The PDI and ADX signals are strong, while the MDI is weak. Overall, a sell recommendation is suggested."
+    },
+    {
+        "prompt": "Review the BTCUSDT market trends in Binance on 2023-03-18 and offer your buy/sell recommendation using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc., I recommend a buy for BTCUSDT on 2023-03-18 in Binance. The RSI and MFI are indicating an overbought market, while PDI and ADX suggest a strong uptrend, making it a good opportunity for a short-term trade."
+    },
+    {
+        "prompt": "Perform a comprehensive analysis of BTCUSDT within Binance on 2023-03-19 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the indicators and financial data, BTCUSDT on 2023-03-19 is showing strong bullish momentum, with RSI at 71.87 and MFI at 65.04. PDI is higher than MDI, indicating a positive trend. The ADX at 31.03 also supports a strong trend. Therefore, a buy recommendation is advised."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-03-20 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on technical indicators like RSI, MFI, PDI, MDI, and ADX, as well as financial data such as Open, Close, Volume, etc., the BTCUSDT market trend on 2023-03-20 in Binance appears to be bullish. Therefore, it is recommended to buy BTCUSDT."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT market in Binance on 2023-03-21 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Present your analysis in a concise manner, limited to 50 words.",
+        "completion": "Based on the RSI and MFI indicating overbought conditions, and the ADX showing strong bullish trend, we recommend selling BTCUSDT on Binance on 2023-03-21. The high volume and positive price action may indicate a potential reversal, but the PDI and MDI are not showing significant directional movement."
+    },
+    {
+        "prompt": "Conduct a comprehensive analysis of BTCUSDT within Binance on 2023-03-22, analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, and Volume, I recommend a BUY for BTCUSDT on Binance on 2023-03-22. The ADX indicates a strong trend, while the RSI and MFI show bullish momentum. The PDI is higher than the MDI, indicating a bullish trend."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance within Binance on 2023-03-23 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "On March 23, 2023, BTCUSDT opened at $27,250.97, reached a high of $28,750.00, and closed at $28,295.41 with a volume of 128,649.61. The RSI indicator suggests that the cryptocurrency is in overbought territory, while the MFI indicator shows strong buying pressure. The PDI indicator is higher than the MDI indicator, indicating a bullish trend. The ADX indicator suggests a strong uptrend."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-03-24 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the technical analysis, BTCUSDT has an RSI of 62.88, an MFI of 84.90, a PDI of 27.82, an MDI of 11.63, and an ADX of 35.99. The market is showing a strong uptrend with a high trading volume of 86,242.07 BTC. Therefore, a buy recommendation is suggested."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-03-25 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the RSI, MFI, and ADX indicators, BTCUSDT on Binance is showing a bullish trend. The PDI is greater than the MDI, indicating a strong uptrend, with a high trading volume. Therefore, I recommend buying BTCUSDT on Binance."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT dataset in Binance on 2023-03-26 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the indicators, financial data, and overall market trend, I would recommend buying BTCUSDT. The RSI at 64.94 and MFI at 82.19 suggest bullish momentum, while the PDI at 27.97 and MDI at 10.74 indicate a strengthening trend. Additionally, the ADX at 36.94 suggests a strong uptrend. The closing price of 27968.05 and high volume of 49671.70353 also support a buy recommendation."
+    },
+    {
+        "prompt": "Perform a comprehensive analysis of BTCUSDT within Binance on 2023-03-27 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical analysis, BTCUSDT on Binance has an RSI of 59.14, MFI of 78.21, PDI of 25.64, MDI of 14.85, and ADX of 36.20. The Open was 27968.05, High was 28023.86, Low was 26508.14, Close was 27124.91, with Volume of 88039.47 and NumberofTrades of 1575264. The overall trend seems to be bullish with strong momentum. Therefore, a buy recommendation is suggested."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2023-03-28 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, and Volume, it is recommended to hold BTCUSDT on 2023-03-28 as the indicators do not suggest a clear buy or sell signal. The market seems relatively stable, with a moderate ADX value indicating that the trend is not particularly strong."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-03-29 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Based on your findings, provide a buy/sell recommendation using a maximum of 50 words.",
+        "completion": "On 2023-03-29, BTCUSDT on Binance had a strong upward momentum with high trading volume. The RSI and MFI indicators suggest bullish sentiment, while the PDI and ADX indicate a strong uptrend. Therefore, I recommend buying BTCUSDT."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2023-03-30 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the indicators, it is recommended to hold or buy BTCUSDT. RSI and MFI are both in the overbought region, indicating a bullish trend. PDI is higher than MDI, showing an uptrend, and ADX is at a high level, indicating strong buying momentum. The financial data shows a steady increase in volume and a slight increase in closing price."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-03-31 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the given dataset, BTCUSDT on Binance appears to be in a bullish trend with a high RSI and MFI, and a strong ADX value. Additionally, both PDI and MDI values indicate positive momentum. Therefore, I recommend a buy position on BTCUSDT."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-04-01 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis within 50 words.",
+        "completion": "Based on the technical indicators and financial data, I recommend a BUY for BTCUSDT on 2023-04-01 on Binance. The RSI and MFI are in a bullish territory, while the ADX indicates a strong trend. The PDI is higher than the MDI, indicating a bullish momentum. The opening and closing prices are also favorable for investment."
+    },
+    {
+        "prompt": "Review the BTCUSDT market trends in Binance on 2023-04-02 and offer your buy/sell recommendation using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, and Volume, my recommendation is to buy BTCUSDT on Binance on 2023-04-02 as the market trend is positive, with high trading volume and strong technical indicators."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-04-03 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Based on your findings, provide a buy/sell recommendation using a maximum of 50 words.",
+        "completion": "On April 3rd, 2023, BTCUSDT opened at 28171.87 and closed at 27800.0 with a volume of 79180.01405 and 1651062 trades. RSI was at 58.67, MFI at 53.47, PDI at 24.31, MDI at 16.28, and ADX at 35.13. Based on these technical indicators, it is recommended to hold BTCUSDT."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT dataset in Binance on 2023-04-04 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the dataset, the BTCUSDT pair shows a bullish trend with an RSI of 60.68 and ADX of 34.03. The MFI is neutral at 38.63, and PDI is higher than MDI at 23.15 and 15.50, respectively, indicating a possible uptrend. The Open price is 27800.0, and the Close price is 28165.47, with a volume of 49722.56. It's recommended to buy BTCUSDT."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT market in Binance on 2023-04-05 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Present your analysis in a concise manner, limited to 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT is in a bullish trend with a strong ADX value and RSI above 50. The MFI and PDI values suggest a neutral stance. Overall, a buy recommendation is suggested with a target price above 28775.0 based on the high of the day."
+    },
+    {
+        "prompt": "Perform a comprehensive analysis of BTCUSDT within Binance on 2023-04-06 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical indicators and financial data, BTCUSDT appears to be in a bullish trend on 2023-04-06. RSI indicates a neutral territory, MFI suggests a slight buying pressure, while PDI and MDI show a positive trend. ADX supports the bullish trend. A buy recommendation is suggested."
+    },
+    {
+        "prompt": "Examine the BTCUSDT market in Binance on 2023-04-07 and give your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, within 50 words.",
+        "completion": "Based on the RSI and MFI indicators, BTCUSDT appears to be slightly overbought, but the PDI and ADX show a strong uptrend. Therefore, I recommend holding on to your current positions, as the market may continue to trend upward."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-04-08 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Based on your findings, provide a buy/sell recommendation using a maximum of 50 words.",
+        "completion": "On 2023-04-08, BTCUSDT had a strong trend with high trading volume and a bullish RSI and ADX. However, the MFI and PDI were relatively low, indicating potential weakness in the buying momentum. Overall, with caution, a buy recommendation is suggested."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-04-09 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis within 50 words.",
+        "completion": "Based on the technical indicators and financial data, BTCUSDT appears to be in a strong bullish trend. RSI is bullish, MFI is neutral, PDI is above MDI, and ADX indicates a strong trend. The high volume and closing price of 28323.76 suggest a continued bullish trend. Therefore, a buy recommendation is advised."
+    },
+    {
+        "prompt": "Evaluate the performance of BTCUSDT in Binance on 2023-04-10 by analyzing RSI, MFI, PDI, MDI, and ADX indicators, along with financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the financial data and technical indicators, BTCUSDT had a bullish performance on 2023-04-10. The RSI and MFI suggest that the asset was overbought, while the PDI and ADX indicate a strong uptrend. Therefore, I recommend buying BTCUSDT as it has a potential for growth."
+    },
+    {
+        "prompt": "Review the BTCUSDT market trends in Binance on 2023-04-11 and offer your buy/sell recommendation using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the RSI and MFI indicators, BTCUSDT is overbought, while the ADX suggests a strong uptrend. PDI and MDI are in favor of buyers. Therefore, it is recommended to hold or sell BTCUSDT."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-04-12 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Based on your findings, provide a buy/sell recommendation using a maximum of 50 words.",
+        "completion": "On April 12, 2023, BTCUSDT opened at 30200.43 and closed at 29888.07 with a high of 30486.0 and a low of 29637.4. The RSI and MFI indicators both suggest that the market was overbought, while the PDI and ADX indicators suggest that the market was trending upwards. Based on these indicators, it is recommended to hold off on buying or selling BTCUSDT at this time."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset within Binance on 2023-04-13 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information such as Open, Close, Volume, etc. Based on your analysis, provide a concise buy/sell recommendation within 50 words.",
+        "completion": "Based on the provided data, BTCUSDT on Binance has a high RSI and MFI, indicating an overbought market. Additionally, the ADX suggests strong bullish momentum. However, the PDI and MDI are relatively low, indicating a weakening trend. A sell recommendation is advised, considering the overbought market and weakening trend."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2023-04-14 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Sell recommendation is suggested for BTCUSDT on 2023-04-14 as RSI is over 70, MFI is over 65, and PDI is higher than MDI. Although the ADX shows a strong trend, high volatility and overbought conditions indicate a potential price correction."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-04-15 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis within 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, BTCUSDT on Binance appears to be in a strong uptrend, with buying momentum likely to continue. The financial data also shows a solid trading volume. Therefore, a buy recommendation is suggested for this asset."
+    },
+    {
+        "prompt": "Assess the BTCUSDT data in Binance on 2023-04-16 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the RSI and MFI indicators, BTCUSDT is overbought and shows a bearish divergence. PDI is greater than MDI, indicating a bullish trend. ADX value suggests strong trend strength. Considering all indicators, I recommend selling BTCUSDT."
+    },
+    {
+        "prompt": "Examine the BTCUSDT performance in Binance on 2023-04-17 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis text of 50 words.",
+        "completion": "Based on the analysis of BTCUSDT on 2023-04-17, the RSI and MFI indicators suggest that the cryptocurrency is currently in a slightly overbought position. Additionally, the PDI is higher than the MDI, which may indicate a bullish trend. The ADX value of 38.38 indicates a strong uptrend. However, the decrease in price from the opening value of 30304.66 to the closing value of 29430.27 may indicate a potential short-term decline. Overall, I recommend holding onto BTCUSDT or potentially selling if short-term gains are desired."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT market in Binance on 2023-04-18 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Present your analysis in a concise manner, limited to 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information such as Open, Close, and Volume, the BTCUSDT market in Binance on 2023-04-18 suggests a strong bullish trend with a high buying pressure. I recommend a buy position."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market trends in Binance on 2023-04-19 and provide your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Ensure your analysis text remains within 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT has a neutral trend on 2023-04-19. RSI and MFI are both around the mid-level, PDI is slightly higher than MDI, and ADX indicates a strong trend. The Open and Close prices are relatively low, but the Volume is high. Therefore, it is recommended to hold or buy BTCUSDT as the market may continue to trend upwards."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-04-20 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the BTCUSDT dataset on April 20, 2023, the RSI at 47.74 suggests a neutral market, while the MFI at 51.65 indicates moderate buying pressure. The PDI at 20.30 is higher than the MDI at 18.22, indicating a bullish trend, and ADX at 34.02 indicates a strong trend. Considering these indicators and financial information, it is recommended to buy BTCUSDT."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance within Binance on 2023-04-21 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "On 2023-04-21, BTCUSDT on Binance opened at 28243.65 USDT and closed at 27262.84 USDT with a trading volume of 77684.7679 BTC. The RSI indicator was at 41.97, indicating a bearish trend. The MFI was at 48.42, showing a neutral sentiment. The PDI was at 18.56 while the MDI at 22.72, indicating a weak uptrend. The ADX was at 32.31, indicating a strong uptrend."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset in Binance on 2023-04-22 by examining RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the BTCUSDT dataset on Binance on 2023-04-22, the RSI is below 50, indicating a bearish trend. The MFI is also below 50, indicating a lack of buying pressure. The PDI and MDI are both below 25, indicating a weak trend. The ADX is above 25, indicating a strong trend. Overall, the data suggests a potential sell recommendation."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT data within Binance on 2023-04-23 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information such as Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "Based on the BTCUSDT data on 2023-04-23, the RSI of 44.60 indicates a neutral market sentiment. MFI, PDI, and MDI are relatively low, and ADX of 29.25 is a strong bullish signal. The high volume and stable Open/Close prices suggest a hold recommendation."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT in Binance on 2023-04-24 by considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Give your buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, and Volume, I recommend buying BTCUSDT on Binance on 2023-04-24. The market shows bullish signals with a moderate ADX trend and oversold RSI and MFI indicators."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance within Binance on 2023-04-25 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "On April 25, 2023, BTCUSDT showed a bullish trend on Binance. The RSI was below the overbought zone at 49.97, while the MFI was also below the overbought zone at 36.31. The ADX indicated a strong trend at 26.85. The PDI was higher than the MDI, suggesting a positive trend. The open price was 27,510.93, and the close price was 28,300.79, with a high of 28,399.99 and a low of 27,192.00. The volume was 52,325.15."
+    },
+    {
+        "prompt": "Perform a comprehensive analysis of BTCUSDT within Binance on 2023-04-26 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the data analysis of BTCUSDT on 2023-04-26, the RSI of 50.78 indicates a neutral market, while the MFI of 48.70 suggests a cautious market sentiment. The PDI of 24.43 and MDI of 16.43 indicate a bullish trend, while the ADX of 26.33 suggests a moderately strong trend. Considering all the indicators and financial data, we recommend a hold position for BTCUSDT."
+    },
+    {
+        "prompt": "Conduct a comprehensive analysis of BTCUSDT within Binance on 2023-04-27, analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation within a concise analysis of 50 words.",
+        "completion": "Based on the financial data and technical indicators, BTCUSDT is showing bullish signals. The RSI and MFI are above the neutral level of 50, indicating strong buying momentum, and the ADX is above the 25 level, indicating a strong trend. Therefore, it is recommended to buy BTCUSDT on 2023-04-27 within Binance."
+    },
+    {
+        "prompt": "Explore the BTCUSDT data in Binance on 2023-04-28 and generate your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Keep your analysis text within 50 words.",
+        "completion": "Based on the technical indicators, financial information and market trend, it is recommended to hold the BTCUSDT position on 2023-04-28. The RSI and ADX values indicate a neutral market, while the MFI and PDI values suggest a slight buying pressure. The Open and Close values are also relatively close, and the trading volume is moderate."
+    },
+    {
+        "prompt": "Perform an in-depth analysis of BTCUSDT on 2023-04-29 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation within a text limited to 50 words.",
+        "completion": "Based on the technical indicators and financial data, BTCUSDT on Binance looks bullish. The RSI and MFI are both above the 50 level, indicating positive momentum, while the PDI and ADX suggest a strong uptrend. The high volume also supports a potential price increase. Buy recommendation."
+    },
+    {
+        "prompt": "Examine the BTCUSDT market in Binance on 2023-04-30 and give your buy/sell recommendation by analyzing RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, within 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, and Volume, I recommend a buy for BTCUSDT on Binance on 2023-04-30 as the market is showing bullish momentum with strong buying pressure and increasing trend strength."
+    },
+    {
+        "prompt": "Review the BTCUSDT market in Binance on 2023-05-01 and offer your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Provide a concise analysis limited to 50 words.",
+        "completion": "Based on the indicators and financial data, it is recommended to sell BTCUSDT. The RSI is below 50, the MFI is below 80, and the PDI and MDI are both around 20. The ADX is indicating a weak trend. The opening price is higher than the closing price, and the volume is relatively high."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset within Binance on 2023-05-02 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information such as Open, Close, Volume, etc. Based on your analysis, provide a concise buy/sell recommendation within 50 words.",
+        "completion": "Based on the analysis, BTCUSDT on 2023-05-02 showed a neutral trend with an RSI of 50.97, MFI of 52.90, PDI of 19.05, MDI of 19.37, and ADX of 21.80. The opening price was $28,068.26, the closing price was $28,669.86, and the volume was 50,824.52. Given the neutral trend and stable financial information, it is recommended to hold BTCUSDT."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT dataset in Binance on 2023-05-03 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Based on the dataset, BTCUSDT has a moderate RSI level, indicating a neutral trend. MFI and PDI are also indicating a positive trend, while MDI and ADX suggest a weak bearish trend. Considering the overall market conditions, we recommend a buy for short-term investors."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-05-04 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis within 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data, BTCUSDT is showing a neutral trend. Volume is average, and the PDI and MDI are balanced. The RSI is close to the midpoint, and the ADX indicates a lack of a clear trend. No clear buy/sell signal is present. Recommendation: Hold."
+    },
+    {
+        "prompt": "Evaluate the BTCUSDT dataset within Binance on 2023-05-05 using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information such as Open, Close, Volume, etc. Based on your analysis, provide a concise buy/sell recommendation within 50 words.",
+        "completion": "Based on the technical indicators and financial data, it appears that BTCUSDT is a strong buy. The RSI is in the bullish zone, while the MFI is also indicating strong buying pressure. Additionally, the ADX suggests a strong trend, with the PDI higher than the MDI. The Open and Close prices are also higher than the previous day, indicating bullish momentum. Overall, the combination of technical and financial factors suggests that now is a good time to buy BTCUSDT."
+    },
+    {
+        "prompt": "Conduct an analysis of BTCUSDT on 2023-05-06 within Binance, taking into account RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide a buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on technical indicators and financial data for BTCUSDT on 2023-05-06, I recommend buying. RSI and MFI are positive, indicating strong buying momentum. PDI is higher than MDI, showing a bullish trend. ADX is above 20, indicating a strong trend. Open and Close prices are relatively stable."
+    },
+    {
+        "prompt": "Conduct an analysis of BTCUSDT on 2023-05-07 within Binance, taking into account RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide a buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the technical indicators, BTCUSDT is showing bearish momentum with RSI below 50 and ADX indicating a strong trend. However, MFI and PDI suggest a potential rebound. With low volume and a bearish close, it is recommended to SELL."
+    },
+    {
+        "prompt": "Perform a detailed analysis of BTCUSDT on 2023-05-08 within Binance, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide your buy/sell recommendation in a concise analysis within 50 words.",
+        "completion": "Based on the RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data, BTCUSDT looks bearish. The RSI is below 50, the MFI is above 70, and the ADX is indicating a downtrend. Therefore, it is recommended to sell BTCUSDT."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2023-05-09 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the analysis of BTCUSDT market on May 9, 2023, the RSI and ADX indicators suggest a neutral trend while MFI is in the overbought zone. PDI and MDI are also indicating a bearish trend. With the market being overbought and bearish, it is recommended to sell BTCUSDT in Binance."
+    },
+    {
+        "prompt": "Conduct an analysis of BTCUSDT on 2023-05-10 within Binance, taking into account RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Provide a buy/sell recommendation in a concise analysis limited to 50 words.",
+        "completion": "Based on the data provided, BTCUSDT has a neutral RSI and MFI, with a moderately bearish ADX. The PDI/MDI suggests a weak sell signal. While the stock's close price is slightly lower than the open, volume is high. Overall, it is recommended to hold this stock with a cautious outlook on potential future price movements."
+    },
+    {
+        "prompt": "Assess the BTCUSDT data in Binance on 2023-05-11 and provide your buy/sell recommendation based on RSI, MFI, PDI, MDI, and ADX indicators, along with financial information including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Sell BTCUSDT due to weak RSI and ADX indicators, and lower Close price compared to Open. MFI, PDI, and MDI signals are neutral. High trading volume may indicate a short-term price decline."
+    },
+    {
+        "prompt": "Review the BTCUSDT market trends in Binance on 2023-05-12 and offer your buy/sell recommendation using RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data including Open, Close, Volume, etc. Keep your analysis concise, using a maximum of 50 words.",
+        "completion": "Based on the technical indicators and financial data, I recommend a SELL for BTCUSDT on 2023-05-12. The RSI and MFI are both indicating an oversold market, while the PDI is weak and the MDI is strong. Additionally, the ADX is showing a strong downtrend. The opening and closing prices are both relatively low, and the volume is moderate."
+    },
+    {
+        "prompt": "Explore the BTCUSDT market in Binance on 2023-05-13 and generate an analysis of RSI, MFI, PDI, MDI, and ADX indicators, alongside financial data including Open, Close, Volume, etc. Offer your buy/sell recommendation in a concise analysis of 50 words.",
+        "completion": "Based on the technical analysis of BTCUSDT on Binance on 2023-05-13, the RSI and MFI indicators suggest that the market is oversold and undervalued. However, the PDI and MDI indicators indicate that the bears are currently in control. The ADX suggests that the trend is weak, but there is potential for a reversal. Therefore, it is recommended to hold or accumulate BTCUSDT for now and wait for a clearer trend to form before making any buy or sell decisions."
+    },
+    {
+        "prompt": "Analyze the BTCUSDT dataset in Binance on 2023-05-14 and provide your buy/sell recommendation, considering RSI, MFI, PDI, MDI, and ADX indicators, as well as financial data such as Open, Close, Volume, etc. Use a maximum of 50 words in your analysis.",
+        "completion": "Sell BTCUSDT. RSI and MFI are below 50, indicating a bearish sentiment. PDI and MDI show a strong downtrend, and ADX confirms a strong bearish trend. Open, High, Low, and Close prices are also decreasing. Combined, these indicators suggest a high likelihood of continued downward movement."
+    },
+    {
+        "prompt": "Investigate the BTCUSDT performance within Binance on 2023-05-15 and generate an analysis based on RSI, MFI, PDI, MDI, and ADX indicators, as well as financial information including Open, Close, Volume, etc. Limit your analysis text to 50 words.",
+        "completion": "On May 15, 2023, BTCUSDT opened at 26,917.61 and closed at 27,162.14 with a trading volume of 40,430.08. The RSI and MFI indicators reveal a bearish trend, while PDI and MDI indicate a weak uptrend. ADX shows a strong trend, leading to a neutral stance."
+    }
+]
