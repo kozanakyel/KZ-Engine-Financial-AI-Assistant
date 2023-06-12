@@ -100,6 +100,7 @@ def handle_file_string(file, tokenizer, redis_conn, text_embedding_field, index_
         vectors.append({'id': id, "vector": embedding, 'metadata': {"filename": filename,
                                                                     "text_chunk": text_chunk,
                                                                     "file_chunk_index": i}})
+        # print(vectors)
 
     try:
         # Load vectors into Redis

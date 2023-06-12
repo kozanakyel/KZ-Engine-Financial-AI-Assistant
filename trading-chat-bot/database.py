@@ -67,6 +67,7 @@ def get_redis_results(redis_conn,query,index_name):
     
     # Get most relevant documents from Redis
     query_result = query_redis(redis_conn,query,index_name)
+    print(f'results: {query_result}')
     
     # Extract info into a list
     query_result_list = []
