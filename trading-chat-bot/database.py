@@ -43,8 +43,6 @@ def load_vectors(client:Redis, input_list, vector_field_name):
 
 # Make query to Redis
 def query_redis(redis_conn,query,index_name, top_k=2):
-    
-    
 
     ## Creates embedding vector from user query
     embedded_query = np.array(openai.Embedding.create(
