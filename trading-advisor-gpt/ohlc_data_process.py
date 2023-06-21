@@ -43,6 +43,7 @@ def create_ichmiouk_tenkansen(dft: pd.DataFrame()) -> None:
 def analyze_ichimoku(dft, n=10):
     # Get the last `n` rows of the DataFrame
     last_rows = dft.iloc[-n:]
+    base_price = 0
 
     # Initialize a variable to store the trend
     trend = "undefined"
@@ -51,18 +52,23 @@ def analyze_ichimoku(dft, n=10):
         # Check for Conversion Line crossing above Base Line
         if last_rows.iloc[i-1]['ich_tline'] < last_rows.iloc[i-1]['ich_kline'] and last_rows.iloc[i]['ich_tline'] > last_rows.iloc[i]['ich_kline']:
             trend = "bullish"
+            base_price = dft.iloc[-1]['ich_kline']
         # Check for Conversion Line crossing below Base Line
         elif last_rows.iloc[i-1]['ich_tline'] > last_rows.iloc[i-1]['ich_kline'] and last_rows.iloc[i]['ich_tline'] < last_rows.iloc[i]['ich_kline']:
             trend = "bearish"
-
+    
+    base_price = dft.iloc[-3]['ich_kline'], dft.iloc[-3]['ich_tline']
     # Check if the Close price is above the Conversion Line and Base Line
     if last_rows.iloc[-1]['Close'] > last_rows.iloc[-1]['ich_tline'] and last_rows.iloc[-1]['Close'] > last_rows.iloc[-1]['ich_kline']:
         trend = "strong bullish"
+        base_price = dft.iloc[-1]['ich_kline']
     # Check if the Close price is below the Conversion Line and Base Line
     elif last_rows.iloc[-1]['Close'] < last_rows.iloc[-1]['ich_tline'] and last_rows.iloc[-1]['Close'] < last_rows.iloc[-1]['ich_kline']:
         trend = "strong bearish"
+        base_price = dft.iloc[-1]['ich_tline']
+        
 
-    return trend
+    return trend, base_price
 
 def analyze_supertrend(data):
     # Get the last 10 rows of the DataFrame
@@ -90,8 +96,9 @@ if __name__ == '__main__':
     df = fetch_data('BTC-USD', '3mo', '1d')
     indicator_data = calculate_dmi_rsi_mfi(df)
     result_ich = analyze_ichimoku(indicator_data)
-    print(indicator_data.info())
-    print(f'Ichmouku analyze and trend directions: {result_ich}')
+    print('BITCOIN Supertrend and Ichmouku Analyzes Report:')
+    print(f'Ichmouku analyze and trend directions: {result_ich[0]} \
+          \nOur support level is: {result_ich[1]}. Current price is: {indicator_data.iloc[-1]["Close"]}')
     sti = calculate_supertrend(indicator_data)
     trend, price_crossed_line = analyze_supertrend(sti)
-    print(f"The current trend is {trend}. Did the price cross the SuperTrend line in the last 10 periods? {'Yes' if price_crossed_line else 'No'}")
+    print(f"The current SUPERTREND is {trend}. \nDid the price cross the SuperTrend line in the last 5 periods? {'Yes' if price_crossed_line else 'No'}")
