@@ -50,7 +50,7 @@ class ServiceSelectionChain(LLMChain):
             7. Trading Advice: Provide detailed trading advice with numerical indicator values and given advice, interprate detailed for customers
 
             Only answer with a number between 1 and 7 to indicate the next conversation stage. 
-            Additionally for the 4, 6 and 7 i wiil give answer from outside service and you can see this answer and evaluate for the next step
+            Additionally for the 4, 6 and 7 i will give answer from outside service and you can see this answer and evaluate for the next step
             from the conversation history. Also dont forget if the client say goodbye or thanks you can evaluate like the 5 Close stage.
             The answer needs to be one number only, no words.
             If there is no conversation history, output 1.

@@ -98,9 +98,9 @@ class GptVerseAssistant(Chain, BaseModel):
             redis_service = IndexRedisService()
             response_f1 = redis_service.response_f1_query(self.conversation_history[-1])  
             # print(f'last questions : {self.conversation_history[-1]}')
-            # response_f1 = response_f1 + " <END_OF_TURN>"
+            response_f1 = response_f1 + " Can you see our education or AI trading services <END_OF_TURN>"
             self.conversation_history.append(response_f1)
-            # print(f"{self.agent_name}: ", response_f1.rstrip("<END_OF_TURN>"))
+            print(f"{self.agent_name}: ", response_f1.rstrip("<END_OF_TURN>"))
 
         if self.stage_id == "4":
             # print("you are the ai trading dtailed phase!!!!")
@@ -113,14 +113,14 @@ class GptVerseAssistant(Chain, BaseModel):
             
         if self.stage_id == "7":
             tradv = TradingAdvisor.get_advice()
-            # tradv = tradv + " <END_OF_TURN>"
+            tradv = tradv + " how can assist further anything? <END_OF_TURN>"
             self.conversation_history.append(tradv)
-            # print(f"{self.agent_name}: ", tradv.rstrip("<END_OF_TURN>"))
+            print(f"{self.agent_name}: ", tradv.rstrip("<END_OF_TURN>"))
             
 
         
             # Generate agent's utterance
-        if self.stage_id != "4":
+        if self.stage_id != "4" and self.stage_id != "7" and self.stage_id != "6":
             ai_message = self.service_conversation_utterance_chain.run(
                 agent_name=self.agent_name,
                 agent_role=self.agent_role,
