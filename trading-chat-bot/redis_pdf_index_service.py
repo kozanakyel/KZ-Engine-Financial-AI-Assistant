@@ -118,9 +118,9 @@ class IndexRedisService:
     
 if __name__ == '__main__':
     redis_service = IndexRedisService()
-    # pdf_files = redis_service.get_pdf_files()
-    # redis_service.index_checker()
-    # redis_service.initiliaze_tokenizer()
+    pdf_files = redis_service.get_pdf_files()
+    redis_service.index_checker()
+    redis_service.initiliaze_tokenizer()
     response_f1 = redis_service.response_f1_query("what are the motivation concept for kzengine?")  
-    print(f'response from our service: {response_f1}')
+    print(f'response from our service: {response_f1} and type {type(response_f1)}')
     
