@@ -107,7 +107,8 @@ class GptVerseAssistant(Chain, BaseModel):
             redis_service = IndexRedisService()
             response_f1 = redis_service.response_f1_query(self.conversation_history[-1])  
             # print(f'last questions : {self.conversation_history[-1]}')
-            response_f1 = response_f1 + " Could you want some advice about the bitcoin current status within hourly timeframe? <END_OF_TURN>"
+            response_f1 = response_f1 + " Could you want some advice about the bitcoin current \
+                            status within hourly timeframe? <END_OF_TURN>"
             self.conversation_history.append(response_f1)
             print(f"{self.agent_name}: ", response_f1.rstrip("<END_OF_TURN>"))
             
