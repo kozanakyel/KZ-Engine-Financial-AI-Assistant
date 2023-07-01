@@ -7,4 +7,4 @@ that composed of all the indicators' information.
 
 This is Research area and study for our AI engines performance boosted and innovative process.
 
-![GptVerse Assistant Bot Diagram]({{"/assets/gptverseAIAssistant.png"}})
+![GptVerse Assistant Bot Diagram]({{"assets/gptverseAIAssistant.png"}})
