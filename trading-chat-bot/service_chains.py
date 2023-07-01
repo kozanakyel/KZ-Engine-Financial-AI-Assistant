@@ -72,7 +72,7 @@ class ServiceConversationChain(LLMChain):
         You're contacting a potential customer to {conversation_purpose} through {conversation_type}. 
         If you're asked about how you got the user's contact information, you obtained it from public records.
 
-        Keep your responses short to retain the user's attention. Avoid lists, and focus on clear and concise answers. 
+        Keep your responses summarized and explainable to retain the user's attention.  
         Respond according to the previous conversation history and the stage of the conversation you are at. 
         Generate one response at a time! When you're done generating, end with '<END_OF_TURN>' to give the user a chance to respond. 
 

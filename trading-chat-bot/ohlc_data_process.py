@@ -61,11 +61,11 @@ def analyze_ichimoku(dft, n=10):
     # Check if the Close price is above the Conversion Line and Base Line
     if last_rows.iloc[-1]['Close'] > last_rows.iloc[-1]['ich_tline'] and last_rows.iloc[-1]['Close'] > last_rows.iloc[-1]['ich_kline']:
         trend = "strong bullish"
-        base_price = dft.iloc[-1]['ich_kline']
+        base_price = dft.iloc[-1]['ich_kline'], 0
     # Check if the Close price is below the Conversion Line and Base Line
     elif last_rows.iloc[-1]['Close'] < last_rows.iloc[-1]['ich_tline'] and last_rows.iloc[-1]['Close'] < last_rows.iloc[-1]['ich_kline']:
         trend = "strong bearish"
-        base_price = dft.iloc[-1]['ich_tline']
+        base_price = dft.iloc[-1]['ich_tline'], 0
         
 
     return trend, base_price

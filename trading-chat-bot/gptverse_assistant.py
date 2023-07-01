@@ -87,6 +87,7 @@ class GptVerseAssistant(Chain, BaseModel):
         # process human input
         human_input = human_input + "<END_OF_TURN>"
         self.conversation_history.append(human_input)
+        self.conversation_history = self.conversation_history[-5:]
 
     def step(self):
         self._call(inputs={})
@@ -137,6 +138,7 @@ class GptVerseAssistant(Chain, BaseModel):
 
         # Add agent's response to conversation history
         self.conversation_history.append(ai_message)
+        self.conversation_history = self.conversation_history[-5:]
 
         print(f"{self.agent_name} - base: ", ai_message.rstrip("<END_OF_TURN>"))
         return {}
