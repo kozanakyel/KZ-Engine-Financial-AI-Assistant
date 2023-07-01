@@ -93,7 +93,7 @@ def analyze_supertrend(data):
     return trend, price_crossed_line
 
 if __name__ == '__main__':
-    df = fetch_data('BTC-USD', '3mo', '1d')
+    df = fetch_data('BTC-USD', '1mo', '1h')
     indicator_data = calculate_dmi_rsi_mfi(df)
     result_ich = analyze_ichimoku(indicator_data)
     print('BITCOIN Supertrend and Ichmouku Analyzes Report:')

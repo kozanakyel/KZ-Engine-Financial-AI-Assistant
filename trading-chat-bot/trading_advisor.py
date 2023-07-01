@@ -20,7 +20,7 @@ openai = OpenAI(
 
 
 # create our examples
-examples = [
+rsi_examples = [
 {
     "query": f"RSI,70.34,MFI,59.02,DMP,31.3,"
                 f" DMN,12.77,ADX,41.26"
@@ -58,7 +58,7 @@ example_prompt = PromptTemplate(
 
 # now break our previous prompt into a prefix and suffix
 # the prefix is our instructions
-prefix = """Answer the question based on the context below.
+rsi_prefix = """Answer the question based on the context below.
 You are the trading advisor. Also you are expert on RSI, MFI and DMP, DMI indicators.
 
 Context: RSI indicator value range betwwen 0-100. RSI value 70 and above meaning that overbought area.
@@ -83,17 +83,20 @@ suffix = """
 User: {query}
 AI: """
 
-# now create the few shot prompt template
-few_shot_prompt_template = FewShotPromptTemplate(
-    examples=examples,
-    example_prompt=example_prompt,
-    prefix=prefix,
-    suffix=suffix,
-    input_variables=["query"],
-    example_separator="\n\n"
-)
 
 class TradingAdvisor:
+    
+    @staticmethod
+    def create_advice_prompt_template(examples, prefix):
+        few_shot_prompt_template = FewShotPromptTemplate(
+            examples=examples,
+            example_prompt=example_prompt,
+            prefix=prefix,
+            suffix=suffix,
+            input_variables=["query"],
+            example_separator="\n\n"
+        )
+        return few_shot_prompt_template
 
     @staticmethod
     def fetch_current_data(symbol: str):
@@ -110,14 +113,15 @@ class TradingAdvisor:
         dmn_14 = df.DMN_14.iloc[-1]
         adx_14 = df.ADX_14.iloc[-1]
         query = f"RSI,{rsi_14:.2f},MFI,{mfi_14:.2f},DMP,{dmp_14:.2f}," \
-                f" DMN,{dmn_14:.2f},ADX,{adx_14:.2f}"
+                f" DMN,{dmn_14:.2f},ADX,{adx_14:.2f}"        
 
+        prompt_template = TradingAdvisor.create_advice_prompt_template(rsi_examples, rsi_prefix)
         return openai(
-                few_shot_prompt_template.format(
+                prompt_template.format(
                     query= query
                 )
             )
         
 if __name__ == '__main__':
-    tradv = TradingAdvisor.get_advice()
+    tradv = TradingAdvisor.get_advice("SOL-USD")
     print(tradv)
