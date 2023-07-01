@@ -22,7 +22,7 @@ conversation_stages = {
         "4": "AI Trading Service Presentation: Provide more detailed information about the AI trading services offered by the company.",
         "5": "Close: Ask if they want to proceed with the service. This could be starting a trial, setting up a meeting, or any other suitable next step.",
         "6": "Company Info: Provide general information about company like what is company and what are purposes and aimed etc.",
-        "7": "Trading Advice: Provide detailed trading advice with numerical indicator values and given advice, interprate detailed for customers"
+        "7": "Trading Advice Service Presentation: Provide and give detailed trading advice about to asked specific coin or asset"
 }
 
 class ServiceSelectionChain(LLMChain):
@@ -47,7 +47,7 @@ class ServiceSelectionChain(LLMChain):
             4. AI Trading Service Presentation: Provide more detailed information about the AI trading services offered by the company.
             5. Close: Ask if they want to proceed with the service. This could be starting a trial, setting up a meeting, or any other suitable next step.
             6. Company Info: Provide general information about company like what is company and what are purposes and aimed etc.
-            7. Trading Advice: Provide detailed trading advice with numerical indicator values and given advice, interprate detailed for customers
+            7. Trading Advice Service Presentation: Provide and give detailed trading advice about to asked specific coin or asset
 
             Only answer with a number between 1 and 7 to indicate the next conversation stage. 
             Additionally for the 4, 6 and 7 i will give answer from outside service and you can see this answer and evaluate for the next step

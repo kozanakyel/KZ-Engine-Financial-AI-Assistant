@@ -17,12 +17,13 @@ from pydantic import BaseModel, Field
 from langchain.chains.base import Chain
 from langchain.chat_models import ChatOpenAI
 
+from symbol_generation_service import SymboGenerationPromptService
 from trading_advisor import TradingAdvisor
 from redis_pdf_index_service import IndexRedisService
 
 class GptVerseAssistant(Chain, BaseModel):
     """Controller model for the GptVerse Assistant."""
-   
+    
     stage_id = "1"
 
     conversation_history: List[str] = []
@@ -36,7 +37,7 @@ class GptVerseAssistant(Chain, BaseModel):
         "4": "AI Trading Service Presentation: Provide more detailed information about the AI trading services offered by the company.",
         "5": "Close: Ask if they want to proceed with the service. This could be starting a trial, setting up a meeting, or any other suitable next step.",
         "6": "Company Info: Provide general information about company like what is company and what are purposes and aimed etc.",
-        "7": "Trading Advice: Provide detailed trading advice with numerical indicator values and given advice, interprate detailed for customers"
+        "7": "Trading Advice Service Presentation: Provide and give detailed trading advice about to asked specific coin or asset"
     }
 
     agent_name: str = "AI Assistant"
@@ -44,7 +45,8 @@ class GptVerseAssistant(Chain, BaseModel):
     company_name: str = "GptVerse"
     company_business: str = "GptVerse is a company dedicated to the metaverse. We provide education and AI trading services."
     company_values: str = "Our vision is to adapt people to the metaverse with AI processes, education, and AI trading systems, thereby helping people act like they are in a metaverse platform."
-    conversation_purpose: str = "Choosing the right service for the client and showing them the best option."
+    conversation_purpose: str = "Choosing the right service for the client and showing them the best option. If the service is selected \
+        then provide more detailed information about service."
     conversation_type: str = "Chatting"
 
 
@@ -79,7 +81,7 @@ class GptVerseAssistant(Chain, BaseModel):
         )
         self.stage_id = conversation_stage_id
 
-        print(f"Conversation Stage: {self.current_conversation_stage}")
+        # print(f"Conversation Stage: {self.current_conversation_stage}")
 
     def human_step(self, human_input):
         # process human input
@@ -98,31 +100,31 @@ class GptVerseAssistant(Chain, BaseModel):
             redis_service = IndexRedisService()
             response_f1 = redis_service.response_f1_query(self.conversation_history[-1])  
             # print(f'last questions : {self.conversation_history[-1]}')
-            response_f1 = response_f1 + " Can you see our education or AI trading services <END_OF_TURN>"
+            response_f1 = response_f1 + " <END_OF_TURN>"
             self.conversation_history.append(response_f1)
-            print(f"{self.agent_name}: ", response_f1.rstrip("<END_OF_TURN>"))
+            # print(f"{self.agent_name}: ", response_f1.rstrip("<END_OF_TURN>"))
 
         if self.stage_id == "4":
             # print("you are the ai trading dtailed phase!!!!")
             redis_service = IndexRedisService()
             response_f1 = redis_service.response_f1_query(self.conversation_history[-1])  
             # print(f'last questions : {self.conversation_history[-1]}')
-            response_f1 = response_f1 + " Could you want some advice about the bitcoin current \
-                            status within hourly timeframe? <END_OF_TURN>"
+            response_f1 = response_f1 + " <END_OF_TURN>"
             self.conversation_history.append(response_f1)
-            print(f"{self.agent_name}: ", response_f1.rstrip("<END_OF_TURN>"))
+            # print(f"{self.agent_name}: ", response_f1.rstrip("<END_OF_TURN>"))
             
         if self.stage_id == "7":
-            tradv = TradingAdvisor.get_advice()
-            tradv = tradv + " how can assist further anything? <END_OF_TURN>"
+            # print(f'last conversation , {self.conversation_history[-1]}')
+            symbol = SymboGenerationPromptService.get_symbol(self.conversation_history[-1])
+            # print(symbol)
+            tradv = TradingAdvisor.get_advice(symbol)
+            tradv = f'For the {symbol}: ' + tradv + " <END_OF_TURN>"
             self.conversation_history.append(tradv)
-            print(f"{self.agent_name}: ", tradv.rstrip("<END_OF_TURN>"))
-            
-
+            # print(f"{self.agent_name}: ", tradv.rstrip("<END_OF_TURN>"))
         
             # Generate agent's utterance
-        if self.stage_id != "4" and self.stage_id != "7" and self.stage_id != "6":
-            ai_message = self.service_conversation_utterance_chain.run(
+        
+        ai_message = self.service_conversation_utterance_chain.run(
                 agent_name=self.agent_name,
                 agent_role=self.agent_role,
                 company_name=self.company_name,
@@ -131,13 +133,18 @@ class GptVerseAssistant(Chain, BaseModel):
                 conversation_history="\n".join(self.conversation_history),
                 conversation_stage=self.current_conversation_stage,
                 conversation_type=self.conversation_type,
-            )
+        )
 
-            # Add agent's response to conversation history
-            self.conversation_history.append(ai_message)
+        # Add agent's response to conversation history
+        self.conversation_history.append(ai_message)
 
-            print(f"{self.agent_name}: ", ai_message.rstrip("<END_OF_TURN>"))
+        print(f"{self.agent_name} - base: ", ai_message.rstrip("<END_OF_TURN>"))
         return {}
+    
+    def get_response(self, chat: str):
+        self.human_step(chat)
+        self.determine_conversation_stage()
+        self.step()
 
     @classmethod
     def from_llm(cls, llm: BaseLLM, verbose: bool = False, **kwargs) -> "GptVerseAssistant":

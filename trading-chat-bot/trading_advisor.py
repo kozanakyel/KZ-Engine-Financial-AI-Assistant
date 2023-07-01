@@ -96,14 +96,14 @@ few_shot_prompt_template = FewShotPromptTemplate(
 class TradingAdvisor:
 
     @staticmethod
-    def fetch_current_data():
-        df = fetch_data('BTC-USD', '1mo', '1h')
+    def fetch_current_data(symbol: str):
+        df = fetch_data(symbol, '1mo', '1h')
         indicator_data = calculate_dmi_rsi_mfi(df)
         return indicator_data
     
     @staticmethod
-    def get_advice():
-        df = TradingAdvisor.fetch_current_data()
+    def get_advice(symbol: str):
+        df = TradingAdvisor.fetch_current_data(symbol)
         rsi_14 = df.RSI_14.iloc[-1]
         mfi_14 = df.MFI_14.iloc[-1]
         dmp_14 = df.DMP_14.iloc[-1]
