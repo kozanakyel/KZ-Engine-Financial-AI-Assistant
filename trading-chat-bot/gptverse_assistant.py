@@ -140,13 +140,14 @@ class GptVerseAssistant(Chain, BaseModel):
         self.conversation_history.append(ai_message)
         self.conversation_history = self.conversation_history[-5:]
 
-        print(f"{self.agent_name} - base: ", ai_message.rstrip("<END_OF_TURN>"))
+        # print(f"{self.agent_name} - base: ", ai_message.rstrip("<END_OF_TURN>"))
         return {}
     
     def get_response(self, chat: str):
         self.human_step(chat)
         self.determine_conversation_stage()
         self.step()
+        return self.conversation_history[-1].rstrip("<END_OF_TURN>")
 
     @classmethod
     def from_llm(cls, llm: BaseLLM, verbose: bool = False, **kwargs) -> "GptVerseAssistant":
