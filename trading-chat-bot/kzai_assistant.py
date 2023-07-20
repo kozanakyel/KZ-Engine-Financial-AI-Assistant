@@ -21,7 +21,7 @@ from symbol_generation_service import SymboGenerationPromptService
 from trading_advisor import TradingAdvisor
 from redis_pdf_index_service import IndexRedisService
 
-class GptVerseAssistant(Chain, BaseModel):
+class KzaiAssistant(Chain, BaseModel):
     """Controller model for the GptVerse Assistant."""
     
     stage_id = "1"
