@@ -1,10 +1,7 @@
-## GPTVERSE Trading Signal Interpretation
+## KZAI FINANCIAL AI ASSISTANT WITH AGENTS and LLM
 
-This project purpose is fine-tuning openai GPT-4 for interpretation of our GPTVERSE trading signal.
-And All the indicators interpretation for our client.
-So clients can see what did theGTP-4 AI agents says about last 1 week 1 hourly dataset
-that composed of all the indicators' information.
+This project main purpose to help people who relted to cryptocurrency trading. This Ai Assistant give some advice about any coin and fetch some data simultenously and give some feedback for your action on any exchange.
 
-This is Research area and study for our AI engines performance boosted and innovative process.
+We will use vectorstores, ai agents, trading decision mechanism, give information about project and their works mechanism via the LLM. Trying new models like Goole Gemini pro and Mistral.ai for research problem. The last step we want to add a stable diffusion model creating aa advice from extract info any obtaining screenshot via the tradingview.
 
-![GptVerse Assistant Bot Diagram](./assets/gptverseAIAssistant.png)
+Completely worked by KZAI. This project has a MIT License so everyone can follow and use it.
